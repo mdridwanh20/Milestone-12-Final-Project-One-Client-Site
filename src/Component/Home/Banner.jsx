@@ -3,6 +3,8 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a lo
 import { Carousel } from 'react-responsive-carousel';
 import '../../Component/Style/style.css'
 
+
+
 import Img1 from "../../assets/home/01.jpg"
 import Img2 from "../../assets/home/02.jpg"
 import Img3 from "../../assets/home/03.png"
